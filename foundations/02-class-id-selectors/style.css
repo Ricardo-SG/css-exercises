@@ -1,0 +1,42 @@
+.odd {
+    background-color: rgb(244, 126, 248);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+.odd.third {
+    font-size: 24px;
+
+}
+
+#second {
+    color: hsl(195, 100%, 50%);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #00ff6ad3 ;
+    font-size: 24px;
+    font-weight:bold;
+}
+
+/*
+
+#n3 {
+
+
+}
+
+#n4 {
+
+}
+
+#n5 {
+
+}
+
+.even {
+    font-family:'Times New Roman', Times, serif;
+}
+
+#n1 {
+    text-align: center;
+}*/

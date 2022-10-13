@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* my solution */
+body {
+text-align:center;
+}
+
+
+.title {
+margin-bottom:32px;
+}
+
+.flowers {
+  display:flex;
+  justify-content: center;
+  gap:52px;
+
+}
+.item {
+  max-width:200px;
+  
+}
